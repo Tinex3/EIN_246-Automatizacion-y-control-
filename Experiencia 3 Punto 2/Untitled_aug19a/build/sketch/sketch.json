@@ -1,0 +1,10 @@
+#line 1 "E:\\GitHub\\EIN_246-Automatizacion-y-control-\\Experiencia 3 Punto 2\\Untitled_aug19a\\sketch.json"
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:nodemcu-32s",
+    "name": "NodeMCU-32S",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}

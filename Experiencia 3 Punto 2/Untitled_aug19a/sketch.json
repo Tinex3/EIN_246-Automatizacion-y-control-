@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:nodemcu-32s",
+    "name": "NodeMCU-32S",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}

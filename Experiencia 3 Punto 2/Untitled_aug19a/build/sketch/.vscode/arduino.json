@@ -1,0 +1,8 @@
+#line 1 "E:\\GitHub\\EIN_246-Automatizacion-y-control-\\Experiencia 3 Punto 2\\Untitled_aug19a\\.vscode\\arduino.json"
+{
+    "sketch": "Untitled_aug19a.ino",
+    "configuration": "FlashFreq=80,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:nodemcu-32s",
+    "output": "build",
+    "port": "COM4"
+}
