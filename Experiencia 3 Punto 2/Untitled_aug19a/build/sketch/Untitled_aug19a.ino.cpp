@@ -30,7 +30,7 @@ void core0Task(void *parameter);
 void core1Task(void *parameter);
 #line 19 "E:\\GitHub\\EIN_246-Automatizacion-y-control-\\Experiencia 3 Punto 2\\Untitled_aug19a\\Untitled_aug19a.ino"
 void initProperties()
-{
+{ 
 
   ArduinoCloud.setBoardId(DEVICE_LOGIN_NAME);
   ArduinoCloud.setSecretDeviceKey(DEVICE_KEY);
