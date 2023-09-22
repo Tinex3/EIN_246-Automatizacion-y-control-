@@ -1,0 +1,7 @@
+#line 1 "E:\\GitHub\\Micro Arduino\\EIN_246-Automatizacion-y-control-\\Sensado de informacion y subir a webserver\\.vscode\\arduino.json"
+{
+    "sketch": "Sensado de informacion y subir a webserver.ino",
+    "output": "build",
+    "configuration": "JTAGAdapter=default,PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,LoopCore=1,EventsCore=1,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:esp32"
+}

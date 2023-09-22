@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32:JTAGAdapter=default,PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,LoopCore=1,EventsCore=1,DebugLevel=none,EraseFlash=none",
+  "hardwareFolders": "C:\\Users\\briqu\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\briqu\\OneDrive\\Documentos\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "E:\\GitHub\\Micro Arduino\\EIN_246-Automatizacion-y-control-\\Sensado de informacion y subir a webserver"
+}

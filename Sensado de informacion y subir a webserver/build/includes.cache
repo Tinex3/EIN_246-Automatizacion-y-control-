@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\briqu\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\briqu\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\variants\\esp32"
+  },
+  {
+    "Sourcefile": "E:\\GitHub\\Micro Arduino\\EIN_246-Automatizacion-y-control-\\Sensado de informacion y subir a webserver\\build\\sketch\\Sensado de informacion y subir a webserver.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
